@@ -1,1 +1,1 @@
-Código Java com a função de calcular o imposto incidente do salário bruto e o saalário líquido do(a) funcionário(a)
+CÃ³digo Java com a funÃ§Ã£o de calcular o imposto incidente do salÃ¡rio bruto e o salÃ¡rio lÃ­quido do(a) funcionÃ¡rio(a)
